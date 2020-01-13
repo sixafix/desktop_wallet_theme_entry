@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Kawasaki Theme",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "logo": "https://github.com/sixafix/desktop_wallet_theme_entry/blob/master/136212.jpg",
     "categories": [
       "theme"
     ],
@@ -27,11 +27,11 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/sixafix/desktop_wallet_theme_entry/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/sixafix/desktop_wallet_theme_entry,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/sixafix/desktop_wallet_theme_entry.git"
   }
 }
