@@ -1,12 +1,12 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@sixafix/desktop_wallet_theme_entry",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Kawasaki Inspired Desktop Wallet Theme",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Sixafix",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
+    "title": "Kawasaki Theme",
     "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
     "categories": [
       "theme"
